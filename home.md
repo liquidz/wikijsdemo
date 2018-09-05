@@ -10,6 +10,7 @@ aaaa
   (world))
 ```
 
+[bar](foo/bar)
 
 -----
 
